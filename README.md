@@ -3,7 +3,7 @@
 	
 Including front-end and back-end
 	
-Using ChatEngine, FastAPI, Node.js, NPM
+Using ChatEngine, FastAPI, Node.js, NPM, React
 	
 Language: Python
 ### Instruction
